@@ -9,8 +9,6 @@
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=rodrigodev1990&show_icons=true&theme=github_dark">
     <BR/>
-    <BR/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodev1990&layout=compact&theme=github_dark">
 </div>
 
 
